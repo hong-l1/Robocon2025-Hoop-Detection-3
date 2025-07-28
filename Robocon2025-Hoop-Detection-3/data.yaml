@@ -1,0 +1,15 @@
+names:
+- Basketball
+- Goal
+- Player
+- hoop
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: robocon2025-hoop-detection-2fr3q
+  url: https://universe.roboflow.com/work-sxiv5/robocon2025-hoop-detection-2fr3q/dataset/3
+  version: 3
+  workspace: work-sxiv5
+test: ../test/images
+train: ../train/images
+val: ../valid/images
