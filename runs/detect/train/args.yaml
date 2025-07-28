@@ -1,8 +1,8 @@
 task: detect
 mode: train
 model: yolov10s.pt
-data: ./Robocon2025-Hoop-Detection-3/data.yaml
-epochs: 200
+data: ./basketball-1/data.yaml
+epochs: 100
 time: null
 patience: 100
 batch: 16
